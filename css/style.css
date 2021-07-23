@@ -46,13 +46,13 @@
  }
  
 .bottom-cloud{
-    position: absolute;
-    left: 300px;
+    position: relative;
+    left: 500px;
     bottom: 300px;
 }
 
 .top-cloud {
-    position: absolute;
+    position: relative;
     right: 300px;
     top: 50px;
 }
@@ -111,7 +111,7 @@ h3, a{
 
 .btn {
     background: #bee9eb;
-    background-image: -webkit-linear-gradient(top, #00d7de, #008a81);
+    background-image: -webkit-linear-gradient(top, #c6eef0, #008a81);
     background-image: -moz-linear-gradient(top, #00d7de, #008a81);
     background-image: -ms-linear-gradient(top, #00d7de, #008a81);
     background-image: -o-linear-gradient(top, #00d7de, #008a81);
@@ -150,7 +150,7 @@ a {
 }
 
 a:hover {
-    color: #eaf6f6;
+    color: #041111;
 }
 
 .copyright {
